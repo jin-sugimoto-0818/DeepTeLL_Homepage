@@ -59,7 +59,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                お問い合わせ
               </a>
             </li>
           </ul>
