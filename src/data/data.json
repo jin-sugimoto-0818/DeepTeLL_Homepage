@@ -1,66 +1,63 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "AIを日常に",
+    "paragraph": "日本のAIリテラシーを底上げ、経済のスピードアップを目指す。"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "私たちは、AI技術を一般の人々や企業の日常生活に溶け込ませ、AIが特別な技術ではなく、誰もが使いこなせるツールとなることを目指します。私たちの目標は、日本人のAIリテラシーを向上させ、生産性をアップさせる方法を提供することです。AIが手助けし、業務時間を軽減させ、人材を新しい事業などに当てるようになってほしいです。",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "生成AIって最近騒がれてるけど、結局何なの？",
+      "ChatGPTを普段使ってるけど、使いこなせてない",
+      "業務に入れたいけど方法がわからない"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "会社で使ってるけど、もっと使いこなせないかな？",
+      "ほかの会社がAIのシステムを取り入れているけど、実際にどうなの？"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "研修",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "コンサルティング",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "開発",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "顧問",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "プロジェクトタイトル",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "プロジェクトタイトル",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "プロジェクトタイトル",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "プロジェクトタイトル",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "プロジェクトタイトル",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -131,54 +128,48 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/tanimae.jpg",
+      "name": "谷前太喜",
+      "job": "CEO",
+      "text": "AIベンチャー企業の取締役に従事。個人でChatGPT教室を行い、30名以上を個別指導。営業インターンにて、トップセールス。現在東京理科大学理工学部4年で専攻は量子、CNT、PRC"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/sugimoto.png",
+      "name": "杉本迅",
+      "job": "CTO",
+      "text": "AIベンチャー企業の代表取締役に従事。生成AIや量子コンピュータの開発。コンサルを手掛けるデータ分析の専門家。中小企業から大手まで実績数十社。"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "東京都文京区大塚6-32-4",
+    "phone": "080-8886-7799",
+    "email": "info@deeptell.jp",
+    "facebook": "https://www.facebook.com/share/3EowCpBmHwkTrZZf/?mibextid=LQQJ4d",
+    "twitter": "https://x.com/deeptell_jp?s=21&t=l_IcezC5k5vtV0Yyj5Qj8w"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
+      
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "研修",
+      "text": "お客様にあったAI教育の内容をご提案します。"
+    },
+    {
+      
+      "icon": "fa fa-comments-o",
+      "title": "コンサルティング",
+      "text": "データ分析などの結果から、ビジネスの戦略を考えます。"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "開発",
+      "text": "要件定義から設計・開発・保守/運用まで一貫して、システム開発を行います。"
+    },
+    {
+      
+      "icon": "fa fa-bullhorn",
+      "title": "顧問",
+      "text": "共に伴走させていただくパートナーとして、参画いたします。"
     }
   ]
 }

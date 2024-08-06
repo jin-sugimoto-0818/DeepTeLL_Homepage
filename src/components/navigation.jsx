@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            DeepTeLL
           </a>{" "}
         </div>
 
@@ -29,7 +29,7 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                事業内容
               </a>
             </li>
             <li>
@@ -39,22 +39,22 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                サービス
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                プロダクト
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                ユーザー
               </a>
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                チーム
               </a>
             </li>
             <li>
